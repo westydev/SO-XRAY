@@ -10,3 +10,4 @@ Merhaba Bu Proje 1 Ay Önce Çalşan SonOyuncu Client Side Xray Projesidir.
 #### 5. Alttaki Yüklenıyor Yerı %1 Geçtikten Sonra CMD ye Gelip Entere Basıyoruz ve Oyuna Giriyoruz.
 
 Unutmayın Bu Proje Fix Sadece Nasıl Birşey Olduğunu Göstermek İçin Paylaştım.
+![image](https://github.com/westydev/SO-XRAY/assets/88139688/cc0e6404-5475-4167-b99a-7f952a59b159)
