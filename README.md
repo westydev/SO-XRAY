@@ -1,5 +1,5 @@
 # SonOyuncu Xray
-
+# Proje OPEN Sourcedir
 Merhaba Bu Proje 1 Ay Önce Çalşan SonOyuncu Client Side Xray Projesidir.
 
 ## Projeyi Çalıştırmak İçin Addımlar
